@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("Second commit");
 		System.out.println("third commit");
 		System.out.println("stash change");
+		//changes by old branch
+		System.out.println("old branch commit");
 	}
 
 }
